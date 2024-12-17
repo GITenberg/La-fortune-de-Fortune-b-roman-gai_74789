@@ -1,0 +1,33 @@
+_repo: La-fortune-de-Fortune-b-roman-gai_74789
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Billotey, Pierre
+    birthdate: 1886
+    deathdate: 1932
+    gutenberg_agent_id: '57645'
+    url: http://www.gutenberg.org/2009/agents/57645
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Billotey
+description: ''
+gutenberg_issued: '2024-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74789'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k6290148b
+pgterms:marc905: 20241018133338billotey
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bS.E.P.T. (Société d''édition et de publicité technique),
+  $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'La fortune de Fortuné : $b roman gai'
+url: http://www.gutenberg.org/ebooks/74789
