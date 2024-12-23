@@ -1,5 +1,8 @@
 _repo: La-fortune-de-Fortune-b-roman-gai_74789
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74789-h/images/cover.jpg
 creator:
   author:
     agent_name: Billotey, Pierre
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57645
     wikipedia: https://fr.wikipedia.org/wiki/Pierre_Billotey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74789#La-fortune-de-Fortune-b-roman-gai
 gutenberg_issued: '2024-11-24'
 gutenberg_type: Text
 identifiers:
